@@ -1,6 +1,9 @@
 tableone
 ========
 
+website: https://jhu-statprogramming-fall-2022.github.io/biostat840-project3-pkgdown-ashlynrei
+customizations: changed theme, navbar, base font, heading font, code font
+
 [![R-CMD-check](https://github.com/kaz-yos/tableone/workflows/R-CMD-check/badge.svg)](https://github.com/kaz-yos/tableone/actions)
 [![](https://www.r-pkg.org/badges/version/tableone)](https://www.r-pkg.org/pkg/tableone)
 [![CRAN RStudio mirror

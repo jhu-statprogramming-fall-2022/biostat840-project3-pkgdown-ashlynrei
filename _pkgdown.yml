@@ -1,0 +1,10 @@
+url: ~
+template:
+  bootstrap: 5
+  bootswatch: quartz
+  bslib:
+    base_font: {google: "Poppins"}
+    heading_font: {google: "Cabin"}
+    code_font: {google: "Quicksand"}
+navbar:
+  bg: primary

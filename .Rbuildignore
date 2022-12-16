@@ -29,3 +29,7 @@ cran-check.txt
 ^Meta$
 ^revdep$
 ^\.github$
+^.*\.Rproj$
+^\.Rproj\.user$
+^_pkgdown\.yml$
+^pkgdown$
